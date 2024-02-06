@@ -52,7 +52,7 @@ const Lotus = () => {
           <div id="images" className="main w-full"><Images/></div>
           <div id="rnr" className="main2 w-full bg-[#f8f8f8]"><Rnr/></div>
         </div>
-        <span className="text-black/50 text-xs flex text-center justify-center w-screen bg-[#f8f8f8] py-[30px]">© 2024 Lotus Residence Shortlet Apartments, Ilorin</span>
+        <span className="text-black/50 text-xs flex text-center justify-center w-[100%] bg-[#f8f8f8] py-[30px]">© 2024 Lotus Residence Shortlet Apartments, Ilorin</span>
     </>
   );
 };
