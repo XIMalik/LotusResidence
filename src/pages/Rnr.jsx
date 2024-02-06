@@ -17,7 +17,7 @@ const Rnr = () => {
           <div className="receipt bg-white shadow-lg w-[100%] rounded-md h-fit p-8 flex flex-col justify-evenly">
             <div className="flex justify-between text-xs mb-5 border-dashed rounded-md border-[0.5px] p-3">
               <span className="text-black/30">Type</span>
-              <span className="text-black/70">Reservation <span className="text-black/30">/night</span></span>
+              <span className="text-black/70">Reservation <span className="text-black/30">/day</span></span>
             </div>
             <hr className="mb-5 border-dotted" />
 
