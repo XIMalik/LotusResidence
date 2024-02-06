@@ -48,7 +48,7 @@ const Rnr = () => {
             To make a reservation or for more inquiries, reach us through either
             of the following avenues
           </h1>
-          <div className="icons flex gap-5 justify-center w-full">
+          <div className="icons flex gap-5 justify-center items-center w-full">
             <div className="icon">
               <a href="https://wa.me/+2348065771879">
                 <img
